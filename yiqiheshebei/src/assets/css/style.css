@@ -1,0 +1,93 @@
+.green-light {
+  background-color: #e8e8e9;
+}
+
+.green-light .header-bg {
+  background-color: #f3f4f8;
+}
+
+.green-light .commonbtn {
+  min-width: 160px;
+  height: 32px;
+  padding: 0 12px;
+  background-color: #05c65d;
+  color: #fff;
+  font-size: 14px;
+  border: 0;
+  cursor: pointer;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);
+}
+.green-light .redbtn {
+  min-width: 160px;
+  height: 32px;
+  padding: 0 12px;
+  background-color: #e26b6b;
+  color: #fff;
+  font-size: 14px;
+  border: 0;
+  cursor: pointer;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);
+}
+.green-light .graybtn {
+  min-width: 160px;
+  height: 32px;
+  padding: 0 12px;
+  background-color: #a1a1a1;
+  color: #fff;
+  font-size: 14px;
+  border: 0;
+  cursor: pointer;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);
+}
+
+.green-light .commonbtn:hover {
+  background-color: #4acf86;
+}
+
+.green-light .graybtn:hover {
+  background-color: #777777;
+}
+
+/*字体颜色*/
+.green-light .font-red {
+  color: red !important;
+}
+
+.green-light .font-green {
+  color: #05c65d;
+}
+.fl {
+  float: left;
+}
+.btn_z {
+  padding: 8px 21px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.ml-60 {
+  margin-left: 60px;
+}
+.green-btn {
+  background-color: #05c65d;
+  color: #fff;
+}
+.green-btn:hover {
+  background-color: #48c781;
+}
+.white-btn {
+  background-color: #fff;
+  color: #05c65d;
+  border: 1px solid #05c65d;
+}
+.white-btn:hover {
+  background-color: #eafff3;
+}
+.green-text {
+  color: #05c65d;
+}
+.point {
+  cursor: pointer;
+}
+
+

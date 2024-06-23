@@ -1,0 +1,116 @@
+.el-input .el-input__inner {
+  height: 30px !important;
+  width: 300px !important;
+  color: #05c65d !important;
+}
+
+.el-input .el-input__inner:focus {
+  border-color: #05c65d !important;
+}
+
+.el-select .el-input {
+  height: 30px !important;
+}
+
+.el-select .is-focus .el-input__inner {
+  color: #05c65d !important;
+  border-color: #05c65d !important;
+}
+
+.el-select .el-input__inner:focus {
+  border-color: #05c65d !important;
+}
+
+.el-select .el-input__inner {
+  width: 300px;
+  height: 30px;
+  line-height: 30px !important;
+  color: #05c65d !important;
+}
+
+.el-select__caret {
+  color: #05c65d !important;
+}
+
+.el-select .el-input__suffix {
+  height: 30px;
+  line-height: 30px !important;
+}
+
+.el-select .el-input__icon {
+  line-height: 30px !important;
+}
+
+.el-input .el-input__icon {
+  line-height: 30px !important;
+}
+
+/* // 下拉框字体颜色 */
+.el-select-dropdown .selected {
+  color: #05c65d !important;
+}
+
+/* // 计数器 */
+.el-input-number .el-input {
+  height: 20px !important;
+}
+
+.el-input-number .el-input .el-input__inner {
+  width: 80px !important;
+
+  height: 20px !important;
+  line-height: 20px !important;
+  padding: 0 !important;
+}
+
+.el-input-number .el-input-number__decrease,
+.el-input-number .el-input-number__increase {
+  top: 6px !important;
+  width: 18px !important;
+  height: 18px !important;
+  line-height: 18px !important;
+}
+
+.el-input-number .el-input-number__increase {
+  right: 1px !important;
+}
+
+.is-in-pagination .el-input__inner {
+  width: 30px !important;
+  border-radius: 4px !important;
+}
+
+/* // 表格 */
+.el-table .el-table--border {
+  border: 1px solid #05c65d;
+}
+
+.el-table td,
+.el-table th {
+  padding: 8px 0 !important;
+}
+
+.el-table th {
+  background-color: #dcece3 !important;
+  color: #05c65d;
+}
+
+.el-table td,
+.el-table th.is-leaf {
+  border-bottom: 1px solid #C9C7C7 !important;
+}
+
+.el-table--border td,
+.el-table--border th,
+.el-table__body-wrapper .el-table--border.is-scrolling-left~.el-table__fixed {
+  border-right: 1px solid #C9C7C7 !important;
+}
+
+.el-table--border,
+.el-table--group {
+  border: 1px solid #C9C7C7 !important;
+}
+
+.el-tooltip__popper {
+  max-width: 30%;
+}

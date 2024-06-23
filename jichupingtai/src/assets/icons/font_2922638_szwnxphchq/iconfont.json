@@ -1,0 +1,16 @@
+{
+  "id": "2922638",
+  "name": "图标",
+  "font_family": "element-icons",
+  "css_prefix_text": "el-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15093736",
+      "name": "学士帽",
+      "font_class": "bachelor-cap",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}

@@ -1,0 +1,6802 @@
+[
+	{
+		"value": "1",
+		"label": "第一周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "2",
+		"label": "第二周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "3",
+		"label": "第三周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "4",
+		"label": "第四周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "5",
+		"label": "第五周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "6",
+		"label": "第六周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "7",
+		"label": "第七周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "8",
+		"label": "第八周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "9",
+		"label": "第九周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "10",
+		"label": "第十周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "11",
+		"label": "第十一周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "12",
+		"label": "第十二周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "13",
+		"label": "第十三周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "14",
+		"label": "第十四周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "15",
+		"label": "第十五周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "16",
+		"label": "第十六周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "17",
+		"label": "第十七周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "18",
+		"label": "第十八周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "19",
+		"label": "第十九周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "20",
+		"label": "第二十周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "21",
+		"label": "第二十一周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "22",
+		"label": "第二十二周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "23",
+		"label": "第二十三周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "24",
+		"label": "第二十四周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	},
+	{
+		"value": "25",
+		"label": "第二十五周",
+		"children": [
+			{
+				"value": "1",
+				"label": "星期一",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "2",
+				"label": "星期二",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "3",
+				"label": "星期三",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "4",
+				"label": "星期四",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "5",
+				"label": "星期五",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "6",
+				"label": "星期六",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			},
+			{
+				"value": "7",
+				"label": "星期日",
+				"children": [
+					{
+						"value": "1",
+						"label": "第一节次"
+					},
+					{
+						"value": "2",
+						"label": "第二节次"
+					},
+					{
+						"value": "3",
+						"label": "第三节次"
+					},
+					{
+						"value": "4",
+						"label": "第四节次"
+					},
+					{
+						"value": "5",
+						"label": "第五节次"
+					},
+					{
+						"value": "6",
+						"label": "第六节次"
+					},
+					{
+						"value": "7",
+						"label": "第七节次"
+					},
+					{
+						"value": "8",
+						"label": "第八节次"
+					}
+				]
+			}
+		]
+	}
+]
